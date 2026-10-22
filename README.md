@@ -146,6 +146,6 @@ El análisis de los datos de ventas de videojuegos (2013–2016) permitió ident
 ## 👨‍💻 Autor
 
 **Carlos Jiménez Hirashi**
-💼 Data Scientist Jr. | Python & Machine Learning
+💼 Data Scientist & Intelligent Automation Architect
 
 📧 [cjhirashi@gmail.com](mailto:cjhirashi@gmail.com) · 🌐 [LinkedIn](https://www.linkedin.com/in/cjhirashi)
