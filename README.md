@@ -9,7 +9,7 @@
 
 ## 🚀 Descripción
 
-Este proyecto corresponde al **Sprint 6** del programa de Ciencia de Datos en **TripleTen**.
+Este proyecto corresponde al **Sprint 6** del programa de Ciencia de Datos.
 El objetivo es analizar datos de ventas de videojuegos a nivel global, identificar patrones de éxito y probar hipótesis estadísticas que permitan apoyar decisiones estratégicas en campañas de marketing y selección de plataformas.
 
 El caso práctico se basa en datos históricos hasta 2016, con el propósito de planear una estrategia de ventas para 2017.
