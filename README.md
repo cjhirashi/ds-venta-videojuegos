@@ -107,7 +107,7 @@ El análisis de los datos de ventas de videojuegos (2013–2016) permitió ident
 1. **Tendencias globales**  
    - Picos de lanzamientos en 2008–2009, caída progresiva hacia 2016.  
    - *PS2*, *X360* y *PS3* fueron históricamente líderes; *PS4* tomó el liderazgo reciente.  
-   - *Action* fue el género más rentable, seguido de *Shooter* y *Sports*.  
+   - En ventas totales lideró *Action*, seguido de *Shooter* y *Sports*; por título vendido, *Shooter* (1.25 millones) y *Sports* (0.70) rinden más que *Action* (0.42).  
 
 2. **Impacto de reseñas**  
    - Correlación moderada entre `critic_score` y ventas (ej. *PS4*).  
@@ -120,10 +120,11 @@ El análisis de los datos de ventas de videojuegos (2013–2016) permitió ident
 
 4. **Pruebas de hipótesis**  
    - No se detectaron diferencias significativas en calificaciones de usuario entre *Xbox One* y *PC*.  
-   - Sí hubo diferencia significativa en ventas entre *Action* y *Sports*:  
+   - Sí hubo diferencia significativa en las ventas medias por título entre *Action* y *Sports*:  
      - Muestras: *Action* = 766 juegos, *Sports* = 214 juegos  
-     - T-statistic = -2.991, p-valor = 0.003 (< 0.05)  
-     - **Conclusión:** *Action* tiene un desempeño comercial significativamente superior a *Sports*.  
+     - T-statistic = -2.991, p-valor = 0.003 (< 0.05); el signo negativo indica que la media de *Action* es menor  
+     - Ventas medias por título: *Sports* = 0.70 millones, *Action* = 0.42 (medianas: 0.24 y 0.11)  
+     - **Conclusión:** *Sports* vende significativamente más por título que *Action*. *Action* lidera el total (321.9 millones) por su mayor número de lanzamientos.  
 
 ---
 
@@ -138,7 +139,7 @@ El análisis de los datos de ventas de videojuegos (2013–2016) permitió ident
   - Usar reseñas de usuarios como insumo cualitativo más que predictor de ventas.  
 
 - **Estrategia de inversión:**  
-  - Apostar por géneros con crecimiento sostenido (*Action*, *Shooter*).  
+  - Priorizar géneros por rendimiento por título (*Shooter*, *Sports*) y no solo por volumen total.  
   - Evitar grandes inversiones en géneros de bajo retorno como *Puzzle* o *Strategy*, salvo en nichos.  
 
 ---
