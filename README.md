@@ -9,12 +9,12 @@
 
 ## 🚀 Descripción
 
-Este proyecto corresponde al **Sprint 6** del programa de Ciencia de Datos.
+Este es un proyecto de TripleTen (programa de Ciencia de Datos).
 El objetivo es analizar datos de ventas de videojuegos a nivel global, identificar patrones de éxito y probar hipótesis estadísticas que permitan apoyar decisiones estratégicas en campañas de marketing y selección de plataformas.
 
 El caso práctico se basa en datos históricos hasta 2016, con el propósito de planear una estrategia de ventas para 2017.
 
-Accesa al Notebook: [/notebook/sprint6_analysis.ipynb](https://github.com/cjhirashi/proyecto-sprint-6/blob/main/notebooks/sprint6_analysis.ipynb)
+Accesa al Notebook: [notebooks/sprint6_analysis.ipynb](https://github.com/cjhirashi/ds-venta-videojuegos/blob/main/notebooks/sprint6_analysis.ipynb)
 
 ---
 
@@ -60,8 +60,8 @@ Accesa al Notebook: [/notebook/sprint6_analysis.ipynb](https://github.com/cjhira
 1. **Clonar repositorio**
 
    ```bash
-   git clone https://github.com/cjhirashi/proyecto-sprint-6.git
-   cd proyecto-sprint-6
+   git clone https://github.com/cjhirashi/ds-venta-videojuegos.git
+   cd ds-venta-videojuegos
    ```
 
 2. **Crear entorno e instalar dependencias**
@@ -75,7 +75,7 @@ Accesa al Notebook: [/notebook/sprint6_analysis.ipynb](https://github.com/cjhira
 
 ## 📑 Dataset
 
-**Archivo:** `/datasets/games.csv`
+**Archivo:** `data/games.csv`
 
 **Columnas principales:**
 
